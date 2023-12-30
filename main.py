@@ -1,6 +1,7 @@
-
+from functions import *
 def main():
-    print('hello')
+    res = multiply(1,3)
+    print(res)
 
 
 if __name__ == '__main__':
